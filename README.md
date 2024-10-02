@@ -6,7 +6,7 @@
 
 🚀 *Full Stack Software Developer* | 💻 *PHP (Laravel), Angular, React Enthusiast* | 🌐 *Tech Enthusiast*
 
-Welcome to my GitHub profile! I'm *Keyur Trivedi*, a passionate *full-stack software developer* with expertise in *PHP (Laravel), Angular, React and NEXTJS*. With over *3 years* of hands-on experience, I'm dedicated to crafting robust solutions that leverage the power of technology to enhance user experiences. Let's explore some of my coding endeavors!
+Welcome to my GitHub profile! I'm *Keyur Trivedi*, a passionate *full-stack software developer* with expertise in *PHP (Laravel), Angular, React and NEXTJS*. With over *5 years* of hands-on experience, I'm dedicated to crafting robust solutions that leverage the power of technology to enhance user experiences. Let's explore some of my coding endeavors!
 
 ## 💻 My Tech Stack
 
